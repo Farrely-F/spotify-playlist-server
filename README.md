@@ -1,1 +1,1 @@
-# spotify-playlist-server
+This project is a basic Spotify-like REST API implementation built using Node.js and Express. It provides endpoints to manage users, playlists, and songs, allowing users to create, read, update, and delete their data. Submited for "Generasi GIGIH 3.0" Homework module 2.3, implementing the software achitecture (Three Layer Architecture).
